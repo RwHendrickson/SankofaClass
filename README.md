@@ -111,7 +111,7 @@ We had 17 student contributions of data on nodes in our local food system! These
 
 ##### Session 2: Spatial Networks
 
-[Slides](https://drive.proton.me/urls/36K7AS6Q68#SR9zATfI00Q3)
+[Slides](https://drive.proton.me/urls/WSZ79JHXAW#zPitdhkvnpza)
 
 [Lab Instructions](https://github.com/RwHendrickson/SankofaClass/blob/main/Spatial_Networks/LabInstructions_02.pdf)
 
